@@ -1,19 +1,27 @@
 
 # New Pull Request
 
+
+### 📌 Main changes
+<!-- Please specify putting "[x]" what kind of PR is it -->
+- [ ] New feature
+- [ ] Bug Fix
+- [ ] Refactor / tech improve
+- [ ] Other (especify):
+
 ## Description of Changes
 <!-- PR Overview, describe in detail the changes to the repository with this request. -->
 
+<!-- uncomentarice this if you needed>
 ### Reason for Changes (Optional)
-<!-- If this change proposal is not derived from a ticket, it provides relevant information for reviewers to consciously evaluate why this change is necessary. -->
+<!-- If this change proposal is not derived from a ticket, it provides relevant information for reviewers to consciously evaluate why this change is necessary. 
 
 Why were these changes necessary? Provide context.
+-->
 
 ## Ticket
-
-mkln
 <!-- COMPLETE THE FORM WITH THE CORRECT PROJECT AND TICKET NUMBER:
-EXAMPLE: (VDRXBB-12)[https://algotive.atlassian.net/browse/VDRXBB-12] 
+EXAMPLE: (VDRX-12)[https://algotive.atlassian.net/browse/VDRX-12] 
  -->
 [VDRX-](https://algotive.atlassian.net/browse/VDRX-)
 
