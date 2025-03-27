@@ -1,0 +1,19 @@
+name: Reporte de Bug
+description: Reportar un error encontrado en la app
+title: "[BUG] "
+labels: ["bug", "error"]
+body:
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: Descripción del bug
+      placeholder: Describe el problema de forma clara y precisa.
+    validations:
+      required: true
+  - type: textarea
+    id: pasos
+    attributes:
+      label: Pasos para reproducir
+      placeholder: Lista paso a paso cómo reproducir el error.
+    validations:
+      required: true

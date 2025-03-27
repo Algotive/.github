@@ -1,0 +1,12 @@
+name: Deuda Técnica
+description: Identificar oportunidades de mejora técnica
+title: "[TECH-DEBT] "
+labels: ["tech-debt", "refactor"]
+body:
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: ¿Qué debe refactorizarse o mejorarse?
+      placeholder: Describe el problema técnico o mejora detectada.
+    validations:
+      required: true

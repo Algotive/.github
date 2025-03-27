@@ -1,0 +1,12 @@
+name: Solicitud de Feature
+description: Proponer una nueva funcionalidad
+title: "[FEATURE] "
+labels: ["enhancement", "feature"]
+body:
+  - type: textarea
+    id: descripcion
+    attributes:
+      label: ¿Qué deseas que se agregue?
+      placeholder: Describe el feature con claridad.
+    validations:
+      required: true
